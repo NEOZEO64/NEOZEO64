@@ -1,7 +1,7 @@
 ### Moin
 
-- 🔭 I’m currently working on hivecom (see repo) and a analog modular synth
-- 🌱 I’m currently learing analog circuit design and more
+- 🔭 I’m currently working on hivecom (see repo) and on an analog modular synth
+- 🌱 I’m currently learning analog circuit design and more
 - 🎲 Most of my repos contain Python games built with Pygame
 - 📫 How to reach me: neozeo64@pm.me
 
